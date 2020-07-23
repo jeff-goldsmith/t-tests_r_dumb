@@ -25,17 +25,17 @@ formulas that maybe you have to memorize for a stat quiz and never use
 again.
 
 Maybe you think someone taught you the formula for pooling variances
-when you have unequal sample sizes for a reason. Maybe you’re thrilled
-that you remember the difference between the usual test and Welch’s
-test. Maybe you think you’re gonna need to know how an ANOVA table works
-someday. t.test(extra \~ group, data = sleep)
+when you have unequal sample sizes for a good reason. Maybe you’re
+thrilled that you remember the difference between the usual test and
+Welch’s test. Maybe you think you’re gonna need to know how an ANOVA
+table works someday.
 
 Let me tell you – you learned that shit cause it mattered before they
 invented regression and computers, and now it’s just there in your brain
 for no reason. Your teacher thought “I had to learn this – better keep
-teaching it”. Or worse “I got these slides from the last person, who got
-them from the last person, who got them from someone, and well … it’s
-useless but I’m busy / lazy.”
+teaching it”. Or, worse “I got these slides from the last person, who
+got them from the last person, who got them from someone, and well …
+it’s useless but I’m busy / lazy.”
 
 Okay, so maybe you think “I’ll just use t-tests for simple things, like
 one and two sample tests, and regression for everything else.” And I
